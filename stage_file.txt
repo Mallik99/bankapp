@@ -1,0 +1,2 @@
+this is stage_file.txt from stage branch
+
